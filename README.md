@@ -34,4 +34,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Colocando em prática os estudos de SPA em um projeto de desafio da Rocketseat.
 
-- [Acesse o projeto finalizado, online](https://salasfernando.github.io/spa-universe/)
+
